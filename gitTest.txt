@@ -1,1 +1,2 @@
-This is my git test
+This is my git test.
+Change for the second commit!
